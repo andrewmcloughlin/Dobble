@@ -1,4 +1,4 @@
-```react
+react
 import React, { useState, useMemo } from 'react';
 import { Printer, RefreshCw, Plus, Trash2, Info, Square, LayoutGrid, ListOrdered, Download } from 'lucide-react';
 
@@ -204,4 +204,3 @@ const DobblePrintStudio = () => {
   );
 };
 export default DobblePrintStudio;
-```
