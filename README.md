@@ -1,1 +1,1 @@
-a double generator where the user can define words too appear on the cards installs of images
+a double generator where the user can define words to appear on the cards instead of images
